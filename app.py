@@ -1,5 +1,5 @@
 from collections import deque
-from queue import PriorityQueue
+from Queue import PriorityQueue
 from time import sleep
 
 # TODO : Add timers to algorithms.
