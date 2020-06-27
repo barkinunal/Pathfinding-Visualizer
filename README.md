@@ -21,4 +21,5 @@ A visualization tool for various pathfinding algorithms using Python Processing
 - A*
 - UCS (Uniform Cost Search)
 
-
+## Future Work:
+- Show the most optimal path.
