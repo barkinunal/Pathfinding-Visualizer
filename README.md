@@ -12,3 +12,7 @@ A visualization tool for various pathfinding algorithms using Python Processing
 - DFS
 - A*
 - UCS (Uniform Cost Search)
+
+### You can create walls with your mouse drag and pick any algorithm to find the path!
+### The cells visited by the algorithm will be shown green.
+### You can check the time algorithm took in the terminal.
