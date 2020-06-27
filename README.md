@@ -23,3 +23,4 @@ A visualization tool for various pathfinding algorithms using Python Processing
 
 ## Future Work:
 - Show the most optimal path.
+- Use different pathfinding algorithms such as Dijkstra's Shortest Path
