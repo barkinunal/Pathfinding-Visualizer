@@ -6,7 +6,7 @@ A visualization tool for various pathfinding algorithms using Python Processing
 - The cells visited by the algorithm will be shown green.
 - Check the time algorithm took in the terminal.
 
-### To run it use:
+### To run it:
 `java -jar pathfinder.jar`
 
 ![Alt Text](https://media.giphy.com/media/S6l82Kfd355cns7ZIU/giphy.gif)
